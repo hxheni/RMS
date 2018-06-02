@@ -12,4 +12,4 @@ Another task being managed by the app is food products management. The list of p
 Human Resources - We've given the admin the options to add/delete/modify the staff and the accountant the ability to manage their salaries. Some members have a fixed salary, others are paid according to the numbers of the hours worked. 
 Distributors - The accountant has a list of distributors and makes the ordering of the products. There is a part of the app taking care about this.
 
-The web application is built using PHP, mySQL, and jQuery Mobile.
+The web application is built using PHP, mySQL, Javasript and Jquery.
