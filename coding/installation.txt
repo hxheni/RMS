@@ -2,3 +2,6 @@ To install this application you need to upload all the files and directories of 
 in an empty directory inside the server. This application uses 'PHP 5.6' and 'MySql' database.
 Also you will have to import the database 'web17_agugu15'.
 The information about the users to login is available on the 'readme.txt' file.
+
+the link to our page is:
+    'stud-proj.epoka.edu.al/~agugu15/SEfinal1/'
